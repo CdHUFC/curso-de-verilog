@@ -1,2 +1,3 @@
-# curso-de-verilog
-Material utilizado no curso de Verilog pelo Clube do Hardware.
+# Curso de Verilog
+
+Este repositório contém os materiais utilizados no curso de Verilog do Clube do Hardware - UFC.
